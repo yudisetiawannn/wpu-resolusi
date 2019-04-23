@@ -7,7 +7,7 @@ RENCANA KONTEN WPU
      ^ React
 - Struktur Data Dasar
 - PHP Framework
-   * Laravel
+   ^ Laravel
 - Inteview
 - Vlogs
 - Python
